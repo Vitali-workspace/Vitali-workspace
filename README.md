@@ -2,6 +2,11 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
+<h2>Some Tools I Use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+</p>
 <!--
 **Vitali-workspace/Vitali-workspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
