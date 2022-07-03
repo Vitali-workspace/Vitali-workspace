@@ -20,15 +20,14 @@
 </p>
 
 ### Software
-<p> webpack, vscode, pixeluvo </p>
-
-<!--- 
+<!--- <p> webpack, vscode, pixeluvo </p> --->
 <ul>
-  <li>webpack</li>
-  <li>vscode</li>
-  <li>pixeluvo</li>
+  <li>Webpack</li>
+  <li>Vscode</li>
+  <li>Pixeluvo</li>
+  <li>Notion</li>
 </ul>
---->
+
 
 <!--- 
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
