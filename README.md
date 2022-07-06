@@ -20,11 +20,11 @@
 </p>
 
 <h2>Software</h2>
-<!--- <p> webpack, vscode, pixeluvo </p> --->
 <ul>
   <li>Webpack</li>
   <li>Vscode</li>
   <li>Pixeluvo</li>
+  <li>Lucidchart</li>
   <li>Notion</li>
   <li>Trello</li>
 </ul>
