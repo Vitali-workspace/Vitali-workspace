@@ -1,4 +1,6 @@
-### Hi, friend! 👋
+### Hi, friend! 👋👩‍💻
+
+I am Dev.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
@@ -17,6 +19,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" />
 </p>
 
 <h2>Software</h2>
@@ -30,6 +33,12 @@
   <li>Postman</li>
 </ul>
 
+<h2>Methodologies</h2>
+<ul>
+  <!--<li>OOP</li>-->
+  <li>BEM</li>
+  <!--<li>Conventional Commits</li>-->
+</ul>
 
 <!--- 
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
