@@ -22,6 +22,13 @@ I am Dev.
 <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" />
 </p>
 
+<!--- 
+<ul>
+  <li>JS</li>
+  <li>React</li>
+</ul>
+--->
+
 <h2>Software</h2>
 <ul>
   <li>Webpack</li>
@@ -30,7 +37,6 @@ I am Dev.
   <li>Lucidchart</li>
   <li>Notion</li>
   <li>Trello</li>
-  <li>Postman</li>
 </ul>
 
 <h2>Methodologies</h2>
