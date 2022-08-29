@@ -41,7 +41,7 @@ I am Dev.
 
 <h2>Methodologies</h2>
 <ul>
-  <!--<li>OOP</li>-->
+  <li>OOP</li>
   <li>BEM</li>
   <!--<li>Conventional Commits</li>-->
 </ul>
