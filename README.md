@@ -1,6 +1,6 @@
 ### Hi, friend! 👋👩‍💻
 
-I am Dev.
+I am React Developer.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
