@@ -37,6 +37,7 @@ I am React Developer.
   <li>Lucidchart</li>
   <li>Notion</li>
   <li>Trello</li>
+  <li>Postman</li>
 </ul>
 
 <h2>Methodologies</h2>
