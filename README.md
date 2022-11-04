@@ -38,6 +38,7 @@ I am React Developer.
   <li>Notion</li>
   <li>Trello</li>
   <li>Postman</li>
+  <li>Jest</li>
 </ul>
 
 <h2>Methodologies</h2>
