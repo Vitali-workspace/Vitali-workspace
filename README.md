@@ -34,7 +34,6 @@ I am React Developer.
   <li>Webpack</li>
   <li>Vscode</li>
   <li>Pixeluvo</li>
-  <li>Lucidchart</li>
   <li>Notion</li>
   <li>Trello</li>
   <li>Postman</li>
@@ -45,7 +44,7 @@ I am React Developer.
 <ul>
   <li>OOP</li>
   <li>BEM</li>
-  <!--<li>Conventional Commits</li>-->
+  <li>Conventional Commits</li>
 </ul>
 
 <!--- 
