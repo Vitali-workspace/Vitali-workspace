@@ -16,13 +16,6 @@ I am React Developer.
 <a target="_blank" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" height="40" width="40"></a>
 </p>
 
-<!--- 
-<ul>
-  <li>JS</li>
-  <li>React</li>
-</ul>
---->
-
 <h2>Software</h2>
 <ul>
   <li>Webpack</li>
@@ -41,10 +34,6 @@ I am React Developer.
   <li>Conventional Commits</li>
 </ul>
 
-<!--- 
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
---->
 
 
 <!--
