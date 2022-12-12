@@ -15,7 +15,7 @@ I am React Developer.
 <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" />
 <a target="_blank" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" height="40" width="40"></a>
   
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1uHwM98_BP_g9A2gL42Mq6i2QqiSBtKve/view" alt="html5" width="40" height="40"/> </a>
+<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1uHwM98_BP_g9A2gL42Mq6i2QqiSBtKve/view" alt="html5" width="40" height="40"/> </a> -->
 </p>
 
 <h2>Software</h2>
