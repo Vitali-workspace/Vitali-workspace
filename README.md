@@ -35,7 +35,17 @@ I am React Developer.
   <li>Conventional Commits</li>
 </ul>
 
+### ✅ Проект по курсу Яндекс Практикум React-разработчик:
 
+- Спринт 1-6 - [React Burger](https://github.com/Vitali-workspace/react-burger) (React, TypeScript, React Router, Redux)
+
+### ✅ Проекты по курсу Яндекс Практикум web-разработчик:
+
+- Спринт 16 - [Дипломная работа](https://github.com/Vitali-workspace/diplom-server-frontend) (Movies explorer)
+- Спринт 15 - [Mesto Fullstack](https://github.com/Vitali-workspace/react-mesto-api-full) (Mesto fullstack)
+- Спринт 13-14 - [Mesto](https://github.com/Vitali-workspace/express-mesto-gha) (Backend for Mesto)
+- Спринт 10-12 - [Mesto](https://github.com/Vitali-workspace/react-mesto-auth) (React + auth)
+- Спринт 4-9 - [Mesto](https://github.com/Vitali-workspace/mesto)
 
 <!--
 **Vitali-workspace/Vitali-workspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
