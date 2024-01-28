@@ -13,6 +13,7 @@ I would be happy to discuss collaboration opportunities and participate in excit
 
 <div>
 <h2>&#10032; Some Tools I Use</h2>
+
 <img align="right" style="margin-left: 10 px; margin-top: 60 px; margin-right: 10 px;" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,8 +31,11 @@ I would be happy to discuss collaboration opportunities and participate in excit
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </div>
-  
-  
+
+<!-- Отступы для картинки, <kbd></kbd> рамка -->
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+
 <h2>&#10032; Portfolio </h2>
 
 ### ✅ Projects for the Yandex Practicum React developer course:
@@ -64,10 +68,10 @@ I would be happy to discuss collaboration opportunities and participate in excit
 <!--- (2023) [React Developer Professional Training Course at Practicum by Yandex](https://drive.google.com/file/d/1Vj80bKjERqeJfnUfpK-Aok-YnYQrQ0xj/view?usp=drive_link) -->
 <!--- (2023) [Web Development training course at Practicum by Yandex](https://drive.google.com/file/d/12Z5TAVP8QPsx-1jTTjeRV_qr53TDxIUc/view?usp=drive_link) -->
 
-<ul style="list-style-type: none;">
-  <li>&#10032; (2023)<a href="https://drive.google.com/file/d/1Vj80bKjERqeJfnUfpK-Aok-YnYQrQ0xj/view?usp=drive_link">
- React Developer Professional Training Course at Practicum by Yandex</a></li>
-  <li>&#10032; (2023) <a href="https://drive.google.com/file/d/12Z5TAVP8QPsx-1jTTjeRV_qr53TDxIUc/view?usp=drive_link">
- Web Development training course at Practicum by Yandex</a></li>
-</ul>
+
+  <p>&#10032; (2023) <a href="https://drive.google.com/file/d/1Vj80bKjERqeJfnUfpK-Aok-YnYQrQ0xj/view?usp=drive_link">
+ React Developer Professional Training Course at Practicum by Yandex</a></p>
+  <p>&#10032; (2023) <a href="https://drive.google.com/file/d/12Z5TAVP8QPsx-1jTTjeRV_qr53TDxIUc/view?usp=drive_link">
+ Web Development training course at Practicum by Yandex</a></p>
+
 
