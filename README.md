@@ -1,63 +1,73 @@
-### Hi, friend! 👋👩‍💻
+### Hi, friend! 👋
 
-I am React Developer.
+<p>
+I'm Vitalik Slepnyov, a React application developer. My specialization is creating interactive, responsive, and user-friendly interfaces using the React ecosystem.  
+I received training under the guidance of experienced mentors at Yandex Practicum courses in React development and frontend development. My experience includes working with React frameworks and participating in multiple projects.
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+Currently, I'm studying Next.js and Tailwind CSS. My plans for professional development include continuing to learn new technologies and frameworks, deepening my knowledge of React and its ecosystem, and participating in new projects.  
+In my free time, I'm interested in neurobiology, prompt engineering & AI, crypto (testnets), and fitness.  
 
-<h2>Some Tools I Use</h2>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" />
-<a target="_blank" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" height="40" width="40"></a>
-  
-<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1uHwM98_BP_g9A2gL42Mq6i2QqiSBtKve/view" alt="html5" width="40" height="40"/> </a> -->
+I would be happy to discuss collaboration opportunities and participate in exciting projects :)
 </p>
 
-<h2>Software</h2>
-<ul>
-  <li>Webpack</li>
-  <li>Vscode</li>
-  <li>Pixeluvo</li>
-  <li>Notion</li>
-  <li>Trello</li>
-  <li>Postman</li>
+
+<div>
+<h2>&#10032; Some Tools I Use</h2>
+<img align="right" style="margin-left: 10 px; margin-top: 60 px; margin-right: 10 px;" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+  
+  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
+  
+  
+<h2>&#10032; Portfolio </h2>
+
+### ✅ Projects for the Yandex Practicum React developer course:
+
+- [React Burger](https://github.com/Vitali-workspace/react-burger) (React, TypeScript, React Router, Redux, Cypress, Jest)
+> Interactive drag-and-drop app where you can design a burger.
+
+### ✅ Projects for the Yandex Practicum web developer course:
+
+- [Movies Explorer](https://github.com/Vitali-workspace/diplom-server-frontend) (JavaScript, React, React Router, Webpack, Express.js, MongoDB)
+> An application for searching movies using a database. With user authentication, saving and deleting movies.
+
+- [Mesto Fullstack](https://github.com/Vitali-workspace/react-mesto-api-full) (JavaScript, React, React Router, Webpack, Express.js, MongoDB)
+> Backend and frontend parts of the «Mesto» application with user authentication.
+
+- [Express Mesto](https://github.com/Vitali-workspace/express-mesto-gha) (Express.js, MongoDB, Celebrate, JSON Web Token)
+> Backend part for the «Mesto» application.
+
+- [React Mesto Auth](https://github.com/Vitali-workspace/react-mesto-auth) (JavaScript, React)
+> Project «Mesto» rewritten in React with user authentication.
+
+- [Mesto](https://github.com/Vitali-workspace/mesto) (JavaScript, Webpack, BEM)
+> Vanilla JavaScript project (no frameworks).
+
+
+<h2>&#10032; Education </h2>
+🎓 BSUIR (Belarusian State University of Informatics and Radioelectronics) — Projector Engineer
+
+<h2>&#10032; Certifications </h2>
+<!--- (2023) [React Developer Professional Training Course at Practicum by Yandex](https://drive.google.com/file/d/1Vj80bKjERqeJfnUfpK-Aok-YnYQrQ0xj/view?usp=drive_link) -->
+<!--- (2023) [Web Development training course at Practicum by Yandex](https://drive.google.com/file/d/12Z5TAVP8QPsx-1jTTjeRV_qr53TDxIUc/view?usp=drive_link) -->
+
+<ul style="list-style-type: none;">
+  <li>&#10032; (2023)<a href="https://drive.google.com/file/d/1Vj80bKjERqeJfnUfpK-Aok-YnYQrQ0xj/view?usp=drive_link">
+ React Developer Professional Training Course at Practicum by Yandex</a></li>
+  <li>&#10032; (2023) <a href="https://drive.google.com/file/d/12Z5TAVP8QPsx-1jTTjeRV_qr53TDxIUc/view?usp=drive_link">
+ Web Development training course at Practicum by Yandex</a></li>
 </ul>
 
-<h2>Methodologies</h2>
-<ul>
-  <li>OOP</li>
-  <li>BEM</li>
-  <li>Conventional Commits</li>
-</ul>
-
-### ✅ Проект по курсу Яндекс Практикум React-разработчик:
-
-- Спринт 1-6 - [React Burger](https://github.com/Vitali-workspace/react-burger) (React, TypeScript, React Router, Redux)
-
-### ✅ Проекты по курсу Яндекс Практикум web-разработчик:
-
-- Спринт 16 - [Дипломная работа](https://github.com/Vitali-workspace/diplom-server-frontend) (Movies explorer)
-- Спринт 15 - [Mesto Fullstack](https://github.com/Vitali-workspace/react-mesto-api-full) (Mesto fullstack)
-- Спринт 13-14 - [Mesto](https://github.com/Vitali-workspace/express-mesto-gha) (Backend for Mesto)
-- Спринт 10-12 - [Mesto](https://github.com/Vitali-workspace/react-mesto-auth) (React + auth)
-- Спринт 4-9 - [Mesto](https://github.com/Vitali-workspace/mesto)
-
-<!--
-**Vitali-workspace/Vitali-workspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
