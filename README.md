@@ -2,7 +2,7 @@
 
 <p>
 I'm Vitalik Slepnyov, a React application developer. My specialization is creating interactive, responsive, and user-friendly interfaces using the React ecosystem.  
-I received training under the guidance of experienced mentors at Yandex Practicum courses in React development and frontend development. My experience includes working with React frameworks and participating in multiple projects.
+I received training under the guidance of experienced mentors from the Yandex Practicum оn React development and frontend development. My experience includes working with React frameworks and participating in multiple projects.
 
 Currently, I'm studying Next.js and Tailwind CSS. My plans for professional development include continuing to learn new technologies and frameworks, deepening my knowledge of React and its ecosystem, and participating in new projects.  
 In my free time, I'm interested in neurobiology, prompt engineering & AI, crypto (testnets), and fitness.  
@@ -38,12 +38,12 @@ I would be happy to discuss collaboration opportunities and participate in excit
 
 <h2>&#10032; Portfolio </h2>
 
-### ✅ Projects for the Yandex Practicum React developer course:
+### ✅ Projects for the Yandex Practicum — React developer:
 
 - [React Burger](https://github.com/Vitali-workspace/react-burger) (React, TypeScript, React Router, Redux, Cypress, Jest)
 > Interactive drag-and-drop app where you can design a burger.
 
-### ✅ Projects for the Yandex Practicum web developer course:
+### ✅ Projects for the Yandex Practicum — web developer:
 
 - [Movies Explorer](https://github.com/Vitali-workspace/diplom-server-frontend) (JavaScript, React, React Router, Webpack, Express.js, MongoDB)
 > An application for searching movies using a database. With user authentication, saving and deleting movies.
