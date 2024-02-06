@@ -15,6 +15,7 @@ I would be happy to discuss collaboration opportunities and participate in excit
 <h2>&#10032; Some Tools I Use</h2>
 
 <img align="right" style="margin-left: 10 px; margin-top: 60 px; margin-right: 10 px;" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<div>&nbsp;</div>
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,7 +34,7 @@ I would be happy to discuss collaboration opportunities and participate in excit
 </div>
 
 <!-- Отступы для картинки, <kbd></kbd> рамка -->
-<div>&nbsp;</div>
+
 <div>&nbsp;</div>
 
 <h2>&#10032; Portfolio </h2>
