@@ -11,6 +11,7 @@ I would be happy to discuss collaboration opportunities and participate in excit
 </p>
 
 
+
 <div>
 <h2>&#10032; Some Tools I Use</h2>
 
@@ -32,10 +33,9 @@ I would be happy to discuss collaboration opportunities and participate in excit
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </div>
-
-<!-- Отступы для картинки, <kbd></kbd> рамка -->
-
 <div>&nbsp;</div>
+
+
 
 <h2>&#10032; Portfolio </h2>
 
@@ -62,17 +62,18 @@ I would be happy to discuss collaboration opportunities and participate in excit
 > Vanilla JavaScript project (no frameworks).
 
 
+
 <h2>&#10032; Education </h2>
 🎓 BSUIR (Belarusian State University of Informatics and Radioelectronics) — Projector Engineer
+
+
 
 <h2>&#10032; Certifications </h2>
 <!--- (2023) [React Developer Professional Training Course at Practicum by Yandex](https://drive.google.com/file/d/1Vj80bKjERqeJfnUfpK-Aok-YnYQrQ0xj/view?usp=drive_link) -->
 <!--- (2023) [Web Development training course at Practicum by Yandex](https://drive.google.com/file/d/12Z5TAVP8QPsx-1jTTjeRV_qr53TDxIUc/view?usp=drive_link) -->
 
-
   <p>&#10032; (2023) <a href="https://drive.google.com/file/d/1Vj80bKjERqeJfnUfpK-Aok-YnYQrQ0xj/view?usp=drive_link">
  React Developer Professional Training Course at Practicum by Yandex</a></p>
   <p>&#10032; (2023) <a href="https://drive.google.com/file/d/12Z5TAVP8QPsx-1jTTjeRV_qr53TDxIUc/view?usp=drive_link">
  Web Development training course at Practicum by Yandex</a></p>
-
 
