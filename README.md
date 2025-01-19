@@ -4,8 +4,10 @@
 I'm Vitalik Slepnyov, a React application developer. My specialization is creating interactive, responsive, and user-friendly interfaces using the React ecosystem.  
 I received training under the guidance of experienced mentors from the Yandex Practicum оn React development and frontend development. My experience includes working with React frameworks and participating in multiple projects.
 
+<!--
 Currently, I'm studying Next.js and Tailwind CSS. My plans for professional development include continuing to learn new technologies and frameworks, deepening my knowledge of React and its ecosystem, and participating in new projects.  
 In my free time, I'm interested in neurobiology, prompt engineering & AI, crypto (testnets), and fitness.  
+-->
 
 I would be happy to discuss collaboration opportunities and participate in exciting projects :)
 </p>
@@ -52,6 +54,8 @@ I would be happy to discuss collaboration opportunities and participate in excit
 - [Mesto Fullstack](https://github.com/Vitali-workspace/react-mesto-api-full) (JavaScript, React, React Router, Webpack, Express.js, MongoDB)
 > Backend and frontend parts of the «Mesto» application with user authentication.
 
+
+<!-- 
 - [Express Mesto](https://github.com/Vitali-workspace/express-mesto-gha) (Express.js, MongoDB, Celebrate, JSON Web Token)
 > Backend part for the «Mesto» application.
 
@@ -60,7 +64,7 @@ I would be happy to discuss collaboration opportunities and participate in excit
 
 - [Mesto](https://github.com/Vitali-workspace/mesto) (JavaScript, Webpack, BEM)
 > Vanilla JavaScript project (no frameworks).
-
+-->
 
 
 <h2>&#10032; Education </h2>
